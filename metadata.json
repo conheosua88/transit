@@ -1,0 +1,6 @@
+{
+  "name": "Điều hành vận tải - Điều xe & Ghép chuyến",
+  "description": "Hệ thống điều hành vận tải container, quản lý điều xe và ghép chuyến container 20 feet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
